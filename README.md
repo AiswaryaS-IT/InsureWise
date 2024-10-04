@@ -1,4 +1,4 @@
-# InsureWise - Your AI-Powered Insurance Assistant
+# InsureWise - AI-Powered Insurance Assistant
 
 ## Overview
 **InsureWise** is an AI-powered insurance assistant that simplifies interactions with insurance policies. The platform offers an embedded AI chatbot to answer insurance-related queries and automates form-filling using document uploads, enhancing user experience and reducing manual work.
